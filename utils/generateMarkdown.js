@@ -1,8 +1,20 @@
 // function to generate markdown for README
 function generateMarkdown(data) {
+  let license;
+  switch (data.license) {
+    case 'MIT':
+      license = 'MIT license. [https://choosealicense.com/licenses/mit/]';
+      break;
+    case 'Apache 2.0':
+      license = 'Apache 2.0 license. [https://choosealicense.com/licenses/mit/]'
+      break;
+    default:
+      license = 'GNU General Public License v3.0 license. [https://choosealicense.com/licenses/gpl-3.0/]'
+      break;
+  }
   // const inputData = {username, email, title, description, license, dependencies, tests, usage, contributing}
   return `## ${data.title}
-  ${data.license} link
+  ${data.license} license
 
   ## Description
 
@@ -10,8 +22,8 @@ function generateMarkdown(data) {
 
   ## Table of contents
 
-  * [Installation] ($installation)
-  * [Usage] ($usage)
+  * [Installation] (#installation)
+  * [Usage] (#usage)
   * [License] (#license)
   * [Contributing] (#contributing)
   * [Tests] (#tests)
@@ -27,7 +39,7 @@ function generateMarkdown(data) {
 
   ## License
 
-  ${data.license}
+  This project is licensed under the ${license}. 
 
   ## Contributing
 
