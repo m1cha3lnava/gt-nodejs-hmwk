@@ -25,10 +25,10 @@ After downloading the repo, run the command `npm install` to install the depende
 use the command `node .\index.js` to run the program
 
 screenshots of the code
-![Code](./assets/screenshot1)
-![Code](./assets/screenshot2)
-![Code](./assets/screenshot3)
-![Code](./assets/screenshot4)
+![Code](./assets/screenshot1.png)
+![Code](./assets/screenshot2.png)
+![Code](./assets/screenshot3.png)
+![Code](./assets/screenshot4,png)
 
 screenshot of the questions
 ![Questions](./assets/screenshot5.png)
