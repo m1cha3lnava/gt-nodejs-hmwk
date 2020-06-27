@@ -22,18 +22,16 @@ After downloading the repo, run the command `npm install` to install the depende
 
 ## Usage
 
-use the command `node .\index.js` to run the program
+Use the command `node .\index.js` to run the program.
 
-screenshots of the code
+Screenshots of the code
 ![Code](./assets/screenshot1.png)
 ![Code](./assets/screenshot2.png)
 ![Code](./assets/screenshot3.png)
-![Code](./assets/screenshot4,png)
-
-screenshot of the questions
+![Code](./assets/screenshot4.png)
+Screenshot of the questions
 ![Questions](./assets/screenshot5.png)
-
-generated readme
+Generated readme
 ![Your readme](./assets/screenshot6.png)
 ![Your readme](./assets/screenshot7.png)
 
