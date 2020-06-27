@@ -22,12 +22,12 @@ function generateMarkdown(data) {
 
   ## Table of contents
 
-  * [Installation] (#installation)
-  * [Usage] (#usage)
-  * [License] (#license)
-  * [Contributing] (#contributing)
-  * [Tests] (#tests)
-  * [Questions] (#questions)
+  * ![Installation] (#installation)
+  * ![Usage] (#usage)
+  * ![License] (#license)
+  * ![Contributing] (#contributing)
+  * ![Tests] (#tests)
+  * ![Questions] (#questions)
   
   ## Installation
   To install necessary dependencies, run the following command:

@@ -24,6 +24,19 @@ After downloading the repo, run the command `npm install` to install the depende
 
 use the command `node .\index.js` to run the program
 
+screenshots of the code
+![Code](./assets/screenshot1)
+![Code](./assets/screenshot2)
+![Code](./assets/screenshot3)
+![Code](./assets/screenshot4)
+
+screenshot of the questions
+![Questions](./assets/screenshot5.png)
+
+generated readme
+![Your readme](./assets/screenshot6.png)
+![Your readme](./assets/screenshot7.png)
+
 ## Credits
 
 Georgia Tech coding bootcamp.
