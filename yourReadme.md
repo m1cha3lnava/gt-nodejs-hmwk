@@ -1,18 +1,18 @@
-## gt-nodejs-hmwk
+## nodejs readme creator
   MIT license
 
   ## Description
 
-  Easy readme.md generator.
+  Easy readme creator
 
   ## Table of contents
 
-  * [Installation] (#installation)
-  * [Usage] (#usage)
-  * [License] (#license)
-  * [Contributing] (#contributing)
-  * [Tests] (#tests)
-  * [Questions] (#questions)
+  * ![Installation] (#installation)
+  * ![Usage] (#usage)
+  * ![License] (#license)
+  * ![Contributing] (#contributing)
+  * ![Tests] (#tests)
+  * ![Questions] (#questions)
   
   ## Installation
   To install necessary dependencies, run the following command:
@@ -20,7 +20,7 @@
   npm install
   '''
   ## Usage
-  run node index from the CLI
+  run node index to run the program
 
   ## License
 
@@ -39,7 +39,7 @@
 
   ## Questions
 
-  If you have any questions about the repo, open an issue or contact me directly at m1cha3l.nava@gmail.com.
-  You can find more of my work at [m1cha3lnava] (https://github.com/m1cha3lnava/)
+  If you have any questions about the repo, open an issue or contact me directly at M1cha3l.nava@gmail.com.
+  You can find more of my work at [M1cha3lnava] (https://github.com/M1cha3lnava/)
   
 
